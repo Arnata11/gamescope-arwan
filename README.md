@@ -18,8 +18,8 @@ Proyek UTS mata kuliah Visualisasi Data. Dashboard analitik interaktif berbasis 
 Isi identitas mahasiswa dan tautan dashboard sebelum pengumpulan:
 - **Nama:** Arwan Priyadinata
 - **NIM/NPM:** 241041005
-- **Live dashboard:** 
-- **Repositori GitHub:** 
+- **Live dashboard:** https://gamescope-arwan-xv3eplaymqwfgfcbjcdvpf.streamlit.app/
+- **Repositori GitHub:** https://github.com/Arnata11/gamescope-arwan
 
 ---
 
@@ -219,6 +219,6 @@ git push -u origin main
 - [x] Detail game terlaris tahunan pada hover Line Chart tren penjualan.
 - [x] KPI Best-Selling Title menampilkan nama game dan angka penjualan aktual.
 - [x] Seluruh 13 unit test otomatis lulus (`13/13 OK`).
-- [ ] Mengisi identitas Nama & NIM/NPM pada README.md.
-- [ ] Mengunggah repositori ke GitHub (status Public).
-- [ ] Mendeploy ke Streamlit Community Cloud dan menyalin URL live.
+- [x] Mengisi identitas Nama & NIM/NPM pada README.md.
+- [x] Mengunggah repositori ke GitHub (status Public).
+- [x] Mendeploy ke Streamlit Community Cloud dan menyalin URL live.
