@@ -20,6 +20,12 @@ Isi identitas mahasiswa dan tautan dashboard sebelum pengumpulan:
 - **NIM/NPM:** 241041005
 - **Live dashboard:** https://gamescope-arwan-xv3eplaymqwfgfcbjcdvpf.streamlit.app/
 - **Repositori GitHub:** https://github.com/Arnata11/gamescope-arwan
+Link Dashboard Streamlit Kasus-1:
+https://dashboard-visualisasi-data-qs7q4qqnzx9arpv2iukuf6.streamlit.app/
+Link Dashboard Streamlit Kasus-2:
+https://dashboard-visualisasi-data-5xvzueckft2d3gwocjtkti.streamlit.app/
+Link Dashboard Streamlit Kasus-3:
+https://dashboard-visualisasi-data-zj8xjukcww9qheacogr5va.streamlit.app/
 
 ---
 
